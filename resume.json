@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Chris Stead",
+    "label": "Software Developer",
+    "email": "cmstead@gmail.com",
+    "website": "http://www.chrisstead.com",
+    "summary": "Programming polyglot working in Javascript and single page applications; an engineer, software artisan and development craft professional",
+    "location": {
+      "city": "San Diego",
+      "region": "California",
+      "countryCode": "US"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "cm_stead",
+      "url": "http://twitter.com/cm_stead"
+    },
+    {
+      "network": "Github",
+      "username": "cmstead",
+      "url": "http://github.com/cmstead"
+    }]
+  },
+  "work": [{
+    "company": "Events.com",
+    "position": "Sr. Software Engineer",
+    "website": "http://events.com",
+    "startDate": "2014-10-15",
+    "summary": "",
+    "highlights": [
+      "Highlights will go here"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "GVA",
+    "position": "Board Member",
+    "website": "http://gva.org/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "",
+    "highlights": [
+      "Highlights will go here"
+    ]
+  }],
+  "education": [{
+    "institution": "University of California, San Diego",
+    "area": "Applied Mathematics",
+    "studyType": "Bachelor",
+    "startDate": "2003-06-01",
+    "endDate": "2005-03-01",
+    "gpa": "3.33",
+    "courses": [
+      "Coursework will go here"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}
