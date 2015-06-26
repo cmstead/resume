@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Chris Stead",
-    "label": "Software Developer",
+    "label": "Professional Software Developer",
     "email": "cmstead@gmail.com",
     "website": "http://www.chrisstead.com",
-    "summary": "Programming polyglot working in Javascript and single page applications; an engineer, software artisan and development craft professional",
+    "summary": "Professional web developer and technologist, specializing in client-side middleware and data-driven development",
     "location": {
       "city": "San Diego",
       "region": "California",
@@ -21,16 +21,62 @@
       "url": "http://github.com/cmstead"
     }]
   },
-  "work": [{
-    "company": "Events.com",
-    "position": "Sr. Software Engineer",
-    "website": "http://events.com",
-    "startDate": "2014-10-15",
-    "summary": "",
-    "highlights": [
-      "Highlights will go here"
-    ]
-  }],
+  "work": [
+    {
+      "company": "Events.com",
+      "position": "Sr. Software Engineer",
+      "website": "http://events.com",
+      "startDate": "2014-10-15",
+      "summary": "Javascript developer and team lead providing architectural and best practices oversight",
+      "highlights": [
+        "Highlights will go here"
+      ]
+    },
+    {
+      "company": "Bridgepoint Education",
+      "position": "Software Engineer",
+      "website": "http://www.bridgepointeducation.com",
+      "startDate": "2013-05-15",
+      "endDate": "2014-10-15",
+      "summary": "Full stack developer, web development specialist",
+      "highlights": [
+        "Highlights will go here"
+      ]
+    },
+    {
+      "company": "Arrowhead General Insurance Agency, Inc.",
+      "position": "Managing Software Engineer",
+      "website": "http://www.arrowheadgrp.com",
+      "startDate": "2007-04-25",
+      "endDate": "2014-05-12",
+      "summary": "Full stack developer, engineering manager and multi-language systems integration engineer",
+      "highlights": [
+        "Highlights will go here"
+      ]
+    },
+    {
+      "company": "San Diego Cal-SOAP",
+      "position": "Programmer/Analyst II",
+      "website": "http://sandiegocalsoap.com/",
+      "startDate": "2005-09-01",
+      "endDate": "2007-04-23",
+      "summary": "Software developer and technical lead, web software focus",
+      "highlights": [
+        "Highlights will go here"
+      ]
+    },
+    {
+      "company": "Althaus Magazine",
+      "position": "Founder/Writer, Developer",
+      "website": "http://althausmagazine.com/",
+      "startDate": "2006-10-31",
+      "endDate": "2010-01-01",
+      "summary": "Ideator and founder, provided written content as well as platform support; Managed a small team of writers",
+      "highlights": [
+        "Highlights will go here"
+      ]
+    }
+  ],
   "volunteer": [{
     "organization": "GVA",
     "position": "Board Member",
@@ -48,46 +94,24 @@
     "studyType": "Bachelor",
     "startDate": "2003-06-01",
     "endDate": "2005-03-01",
-    "gpa": "3.33",
-    "courses": [
-      "Coursework will go here"
-    ]
+    "gpa": "3.33"
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
+  "awards": [
+     {
+      "title": "BAE Systems Mathematics Grant",
+      "date": "2004-09-01",
+      "awarder": "BAE ",
+      "summary": "A grant made available to mathematics majors at UCSD"
+    }
+  ],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Javascript",
+    "level": "8/10",
     "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
+      "Angular",
+      "Node/iojs",
+      "Functional Programming",
+      "Reactive Programming"
     ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
   }]
 }
