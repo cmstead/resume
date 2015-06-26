@@ -104,14 +104,15 @@
       "summary": "A grant made available to mathematics majors at UCSD"
     }
   ],
-  "skills": [{
-    "name": "Javascript",
-    "level": "8/10",
-    "keywords": [
-      "Angular",
-      "Node/iojs",
-      "Functional Programming",
-      "Reactive Programming"
-    ]
-  }]
+  "skills": [
+    {
+      "name": "Javascript (8/10)",
+      "keywords": [
+        "Angular",
+        "Node/iojs",
+        "Functional Programming",
+        "Reactive Programming"
+      ]
+    }
+  ]
 }
