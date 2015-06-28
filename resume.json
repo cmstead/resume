@@ -19,7 +19,13 @@
       "network": "Github",
       "username": "cmstead",
       "url": "http://github.com/cmstead"
-    }]
+    },
+    {
+      "network": "LinkedIn",
+      "username": "cmstead",
+      "url": "https://www.linkedin.com/in/cmstead"
+    }
+    ]
   },
   "work": [
     {
@@ -81,12 +87,8 @@
     "organization": "GVA",
     "position": "Board Member",
     "website": "http://gva.org/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "",
-    "highlights": [
-      "Highlights will go here"
-    ]
+    "startDate": "2011-01-01",
+    "endDate": "2014-01-01"
   }],
   "education": [{
     "institution": "University of California, San Diego",
@@ -100,8 +102,7 @@
      {
       "title": "BAE Systems Mathematics Grant",
       "date": "2004-09-01",
-      "awarder": "BAE Systems",
-      "summary": "A grant made available to mathematics majors at UCSD"
+      "awarder": "BAE Systems"
     }
   ],
   "skills": [
@@ -113,6 +114,60 @@
         "Functional Programming",
         "Reactive Programming"
       ]
+    },
+    {
+      "name": "CSS (7/10)",
+      "keywords": [
+        "CSS3",
+        "SASS",
+        "LESS",
+        "Compass"
+      ]
+    },
+    {
+      "name": "Design Patterns and Practices (7/10)",
+      "keywords": [
+        "Client Side Patterns",
+        "Server Side Patterns",
+        "REST",
+        "Hypermedia APIs"
+      ]
+    },
+    {
+      "name": "Functional and Rective Programming (6/10)",
+      "keywords": [
+        "Functional Patterns",
+        "Reactive Patterns",
+        "State Abstraction and Isolation",
+        "Lambda Calculus"
+      ]
+    },
+    {
+      "name": "Scripting Languages",
+      "keywords": [
+        "PHP",
+        "ASP.Net",
+        "Python"
+      ]
+    },
+    {
+      "name": "Compiled Languages",
+      "keywords": [
+        "Java",
+        "C#",
+        "Clojure",
+        "C"
+      ]
+    },
+    {
+      "name": "Persistent Data Storage",
+      "keywords": [
+        "MySQL",
+        "ANSI SQL",
+        "Firebase",
+        "Document Store Practices"
+      ]
     }
+
   ]
 }
