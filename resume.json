@@ -35,6 +35,12 @@
       "startDate": "2014-10-15",
       "summary": "Javascript developer and team lead providing architectural and best practices oversight",
       "highlights": [
+        "Led a team of 7 to build the consumer-facing event registration",
+        "Designed and implemented the single page application build system",
+        "Introduced code quality tools and techniques to the Javascript team",
+        "Worked with team members to develop TDD skills and improve code and application quality",
+        "Performed training, code reviews and programmer development duties",
+        "Team worked within a scrum framework and encouraged a collborative development environment",
         "Technologies: Javascript, Angular, REST & CORS, CSS, HTML Node.js"
       ]
     },
@@ -46,11 +52,16 @@
       "endDate": "2014-10-15",
       "summary": "Full stack developer, web development specialist",
       "highlights": [
+        "Managed code quality of offshore development team",
+        "Added test runner support to CI system",
+        "Provided training on Javascript unit testing and test frameworks",
+        "Built framework components to simplify workflow and improve software quality",
+        "Team worked within a scrum framework with regular pair programming",
         "Technolgies: Javascript, Angular, REST & CORS, CSS, HTML, C#, ASP.Net MVC, Node.js"
       ]
     },
     {
-      "company": "Arrowhead General Insurance Agency, Inc.",
+      "company": "Arrowhead General Insurance Agency",
       "position": "Managing Software Engineer",
       "website": "http://www.arrowheadgrp.com",
       "startDate": "2007-04-25",
@@ -91,13 +102,25 @@
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "GVA",
-    "position": "Board Member",
-    "website": "http://gva.org/",
-    "startDate": "2011-01-01",
-    "endDate": "2014-01-01"
-  }],
+  "volunteer": [
+    {
+      "organization": "Open Source Contributions",
+      "website": "http://github.com/cmstead",
+      "highlights": [
+        "JFP - Functional language as a library based on ideas from Clojure and Haskell",
+        "DataMother - Object Mother data IoC library for generating reliable, independent unit test data",
+        "JSLogger - Client-side logging framework for hot debugging in any deployed environment",
+        "Modella - Data management library for single page applications"
+      ]
+    },
+    {
+      "organization": "GVA",
+      "position": "Board Member",
+      "website": "http://gva.org/",
+      "startDate": "2011-01-01",
+      "endDate": "2014-01-01"
+    }
+  ],
   "education": [{
     "institution": "University of California, San Diego",
     "area": "Applied Mathematics",
@@ -151,7 +174,7 @@
       ]
     },
     {
-      "name": "Scripting Languages",
+      "name": "Scripting Languages (Varied Experience)",
       "keywords": [
         "PHP",
         "ASP.Net",
@@ -159,7 +182,7 @@
       ]
     },
     {
-      "name": "Compiled Languages",
+      "name": "Compiled Languages (Varied Experience)",
       "keywords": [
         "Java",
         "C#",
@@ -168,7 +191,7 @@
       ]
     },
     {
-      "name": "Persistent Data Storage",
+      "name": "Persistent Data Storage (Varied Experience)",
       "keywords": [
         "MySQL",
         "ANSI SQL",
