@@ -100,6 +100,20 @@
         "Rebranded and pivoted magazine to maintain relevance in the market",
         "Technologies: PHP, CSS, HTML, MySQL"
       ]
+    },
+    {
+      "company": "Early Experience",
+      "position": "Web and Software Developer",
+      "startDate": "1996-09-01",
+      "endDate": "2005-09-01",
+      "summary": "Various early work on the web and in software development",
+      "highlights": [
+        "Blue Bear Software, Software Developer, 2005",
+        "Independent Contracts, Web Developer and Consultant, 1998-2000",
+        "A+ Net, Web Developer, 1998",
+        "Public Online, Web Developer, 1997",
+        "Clairemont High School, Web Developer, 1996"
+      ]
     }
   ],
   "volunteer": [
