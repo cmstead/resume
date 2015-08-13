@@ -38,10 +38,10 @@
         "Led a team of 7 to build the consumer-facing event registration",
         "Designed and implemented the single page application build system",
         "Introduced code quality tools and techniques to the Javascript team",
-        "Worked with team members to develop TDD skills and improve code and application quality",
+        "Worked with team members to develop Javascript TDD skills and improve code and application quality",
         "Performed training, code reviews and programmer development duties",
         "Team worked within a scrum framework and encouraged a collborative development environment",
-        "Technologies: Javascript, Angular, REST & CORS, CSS, HTML Node.js"
+        "Technologies: Javascript, Angular, REST & CORS, CSS, HTML, Node.js"
       ]
     },
     {
@@ -103,16 +103,6 @@
     }
   ],
   "volunteer": [
-    {
-      "organization": "Open Source Contributions",
-      "website": "http://github.com/cmstead",
-      "highlights": [
-        "JFP - Functional language as a library based on ideas from Clojure and Haskell",
-        "DataMother - Object Mother data IoC library for generating reliable, independent unit test data",
-        "JSLogger - Client-side logging framework for hot debugging in any deployed environment",
-        "Modella - Data management library for single page applications"
-      ]
-    },
     {
       "organization": "GVA",
       "position": "Board Member",
