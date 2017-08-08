@@ -10,29 +10,47 @@
       "region": "California",
       "countryCode": "US"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "cm_stead",
-      "url": "http://twitter.com/cm_stead"
-    },
-    {
-      "network": "Github",
-      "username": "cmstead",
-      "url": "http://github.com/cmstead"
-    },
-    {
-      "network": "LinkedIn",
-      "username": "cmstead",
-      "url": "https://www.linkedin.com/in/cmstead"
-    }
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "cm_stead",
+        "url": "http://twitter.com/cm_stead"
+      },
+      {
+        "network": "Github",
+        "username": "cmstead",
+        "url": "http://github.com/cmstead"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "cmstead",
+        "url": "https://www.linkedin.com/in/cmstead"
+      }
     ]
   },
   "work": [
+    {
+      "company": "Hunter Industries, Inc.",
+      "position": "Full Stack Software Engineer",
+      "website": "http://www.hunterindustries.com",
+      "startDate": "2015-12-15",
+      "summary": "Full stack software developer working primarily in Javascript tech, architecture and skills development -- mob programming",
+      "highlights": [
+        "Provides technical guidance for software development",
+        "Facilitates architectural ideation and discovery",
+        "Leads team in developing best practices with testing and refactoring",
+        "Supports junior- and mid-level developers as they learn and use new skills",
+        "Expands team ability through identifying tool needs and either finding or creating necessary tools",
+        "Leading and facilitating retrospectives with various teams",
+        "Learning and helping to grow understanding around mob programming"
+      ]
+    },
     {
       "company": "Events.com",
       "position": "Sr. Software Engineer",
       "website": "http://events.com",
       "startDate": "2014-10-15",
+      "endDate": "2015-12-15",
       "summary": "Javascript developer and team lead providing architectural and best practices oversight",
       "highlights": [
         "Led a team of 7 to build the consumer-facing event registration",
@@ -124,16 +142,30 @@
       "endDate": "2014-01-01"
     }
   ],
-  "education": [{
-    "institution": "University of California, San Diego",
-    "area": "Applied Mathematics",
-    "studyType": "Bachelor",
-    "startDate": "2003-06-01",
-    "endDate": "2005-03-01",
-    "gpa": "3.33"
-  }],
+  "education": [
+    {
+      "institution": "University of California, San Diego",
+      "area": "Applied Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2003-06-01",
+      "endDate": "2005-03-01",
+      "gpa": "3.33"
+    },
+    {
+      "institution": "Coursera/Polytechnique Fédérale de Lausanne",
+      "area": "Computer Science, Functional Programming, Scala",
+      "startDate": "2016-02-01",
+      "endDate": "2016-03-15"
+    },
+    {
+      "institution": "Coursera/Stanford",
+      "area": "Computer Science/HCI",
+      "startDate": "2012-06-01",
+      "endDate": "2012-8-01"
+    }
+  ],
   "awards": [
-     {
+    {
       "title": "BAE Systems Mathematics Grant",
       "date": "2004-09-01",
       "awarder": "BAE Systems"
@@ -202,6 +234,5 @@
         "Document Store Practices"
       ]
     }
-
   ]
 }
