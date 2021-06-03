@@ -1,0 +1,239 @@
+{
+  "basics": {
+    "name": "Chris Stead",
+    "label": "Professional Software Developer",
+    "email": "cmstead@gmail.com",
+    "website": "http://www.chrisstead.com",
+    "summary": "Professional web developer and technologist, specializing in client-side middleware and data-driven development",
+    "location": {
+      "city": "San Diego",
+      "region": "California",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "cm_stead",
+        "url": "http://twitter.com/cm_stead"
+      },
+      {
+        "network": "Github",
+        "username": "cmstead",
+        "url": "http://github.com/cmstead"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "cmstead",
+        "url": "https://www.linkedin.com/in/cmstead"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hunter Industries, Inc.",
+      "position": "Full Stack Software Engineer",
+      "website": "http://www.hunterindustries.com",
+      "startDate": "2015-12-15",
+      "summary": "Full stack software developer working primarily in Javascript tech, architecture and skills development -- mob programming",
+      "highlights": [
+        "Provides technical guidance for software development",
+        "Facilitates architectural ideation and discovery",
+        "Leads team in developing best practices with testing and refactoring",
+        "Supports junior- and mid-level developers as they learn and use new skills",
+        "Expands team ability through identifying tool needs and either finding or creating necessary tools",
+        "Leading and facilitating retrospectives with various teams",
+        "Learning and helping to grow understanding around mob programming"
+      ]
+    },
+    {
+      "company": "Events.com",
+      "position": "Sr. Software Engineer",
+      "website": "http://events.com",
+      "startDate": "2014-10-15",
+      "endDate": "2015-12-15",
+      "summary": "Javascript developer and team lead providing architectural and best practices oversight",
+      "highlights": [
+        "Led a team of 7 to build the consumer-facing event registration",
+        "Designed and implemented the single page application build system",
+        "Introduced code quality tools and techniques to the Javascript team",
+        "Worked with team members to develop Javascript TDD skills and improve code and application quality",
+        "Performed training, code reviews and programmer development duties",
+        "Team worked within a scrum framework and encouraged a collborative development environment",
+        "Technologies: Javascript, Angular, REST & CORS, CSS, HTML, Node.js"
+      ]
+    },
+    {
+      "company": "Bridgepoint Education",
+      "position": "Software Engineer",
+      "website": "http://www.bridgepointeducation.com",
+      "startDate": "2013-05-15",
+      "endDate": "2014-10-15",
+      "summary": "Full stack developer, web development specialist",
+      "highlights": [
+        "Managed code quality of offshore development team",
+        "Added test runner support to CI system",
+        "Provided training on Javascript unit testing and test frameworks",
+        "Built framework components to simplify workflow and improve software quality",
+        "Team worked within a scrum framework with regular pair programming",
+        "Technolgies: Javascript, Angular, REST & CORS, CSS, HTML, C#, ASP.Net MVC, Node.js"
+      ]
+    },
+    {
+      "company": "Arrowhead General Insurance Agency",
+      "position": "Managing Software Engineer",
+      "website": "http://www.arrowheadgrp.com",
+      "startDate": "2007-04-25",
+      "endDate": "2014-05-12",
+      "summary": "Full stack developer, engineering manager and multi-language systems integration engineer",
+      "highlights": [
+        "Planned and built contractor application system improving conversion rates by 400%",
+        "Build and supported custom multi-platform CMS reducing site support costs by 80%",
+        "Created and supported business and management tools supporting a $2B growth in revenue over 5 years",
+        "Technolgies: PHP, Javascript, CSS, HTML, MySQL, Java, C#, ASP.Net"
+      ]
+    },
+    {
+      "company": "San Diego Cal-SOAP",
+      "position": "Programmer/Analyst II",
+      "website": "http://sandiegocalsoap.com/",
+      "startDate": "2005-09-01",
+      "endDate": "2007-04-23",
+      "summary": "Software developer and technical lead, web software focus",
+      "highlights": [
+        "Overhauled site management tool, improving student registration by 20%",
+        "Built office tool management and scheduling suite improving asset utilization by 60%",
+        "Technologies: PHP, Javascript, CSS, HTML, MySQL"
+      ]
+    },
+    {
+      "company": "Althaus Magazine",
+      "position": "Founder/Writer, Developer",
+      "website": "http://althausmagazine.com/",
+      "startDate": "2006-10-31",
+      "endDate": "2010-01-01",
+      "summary": "Ideator and founder, provided written content as well as platform support; Managed a small team of writers",
+      "highlights": [
+        "Planned designed and released online magazine",
+        "Effectively changed technologies when original release technology failed on a cycle",
+        "Rebranded and pivoted magazine to maintain relevance in the market",
+        "Technologies: PHP, CSS, HTML, MySQL"
+      ]
+    },
+    {
+      "company": "Early Experience",
+      "position": "Web and Software Developer",
+      "startDate": "1996-09-01",
+      "endDate": "2005-09-01",
+      "summary": "Various early work on the web and in software development",
+      "highlights": [
+        "Blue Bear Software, Software Developer, 2005",
+        "Independent Contracts, Web Developer and Consultant, 1998-2000",
+        "A+ Net, Web Developer, 1998",
+        "Public Online, Web Developer, 1997",
+        "Clairemont High School, Web Developer, 1996"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "GVA",
+      "position": "Board Member",
+      "startDate": "2011-01-01",
+      "endDate": "2014-01-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, San Diego",
+      "area": "Applied Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2003-06-01",
+      "endDate": "2005-03-01",
+      "gpa": "3.33"
+    },
+    {
+      "institution": "Coursera/Polytechnique Fédérale de Lausanne",
+      "area": "Computer Science, Functional Programming, Scala",
+      "startDate": "2016-02-01",
+      "endDate": "2016-03-15"
+    },
+    {
+      "institution": "Coursera/Stanford",
+      "area": "Computer Science/HCI",
+      "startDate": "2012-06-01",
+      "endDate": "2012-8-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "BAE Systems Mathematics Grant",
+      "date": "2004-09-01",
+      "awarder": "BAE Systems"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Javascript (8/10)",
+      "keywords": [
+        "Angular",
+        "Node/iojs",
+        "Functional Programming",
+        "Reactive Programming"
+      ]
+    },
+    {
+      "name": "CSS (7/10)",
+      "keywords": [
+        "CSS3",
+        "SASS",
+        "LESS",
+        "Compass"
+      ]
+    },
+    {
+      "name": "Design Patterns and Practices (7/10)",
+      "keywords": [
+        "Client Side Patterns",
+        "Server Side Patterns",
+        "REST",
+        "Hypermedia APIs"
+      ]
+    },
+    {
+      "name": "Functional and Reactive Programming (7/10)",
+      "keywords": [
+        "Functional Patterns",
+        "Reactive Patterns",
+        "State Abstraction and Isolation",
+        "Lambda Calculus"
+      ]
+    },
+    {
+      "name": "Scripting Languages (Varied Experience)",
+      "keywords": [
+        "PHP",
+        "ASP.Net",
+        "Python"
+      ]
+    },
+    {
+      "name": "Compiled Languages (Varied Experience)",
+      "keywords": [
+        "Scala",
+        "Java",
+        "C#",
+        "Clojure",
+        "C"
+      ]
+    },
+    {
+      "name": "Persistent Data Storage (Varied Experience)",
+      "keywords": [
+        "MySQL",
+        "ANSI SQL",
+        "Firebase",
+        "Document Store Practices"
+      ]
+    }
+  ]
+}

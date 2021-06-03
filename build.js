@@ -28,3 +28,5 @@ finalDoc = addAnalytics(finalDoc);
 
 console.log('Writing updated resume');
 fs.writeFileSync('./cstead-resume.html', finalDoc);
+
+fs.copyFileSync('./cstead-resume.html', './index.html');

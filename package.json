@@ -1,5 +1,5 @@
 {
-  "name": "resume",
+  "name": "cstead-resume",
   "version": "1.0.0",
   "description": "My resume",
   "scripts": {
@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/cmstead/resume/issues"
   },
-  "homepage": "https://github.com/cmstead/resume"
+  "homepage": "https://github.com/cmstead/resume",
+  "dependencies": {
+    "jsonresume-theme-flat": "^0.3.7",
+    "resume-cli": "^3.0.4"
+  }
 }
