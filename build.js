@@ -4,7 +4,7 @@ var execSync = require('child_process').execSync,
 	fs = require('fs');
 
 console.log('Building resume');
-execSync('npm run build');
+execSync('npm run export');
 
 function cleanBadChars(documentStr){
 	var updatedDocument = documentStr.replace(/—/g, '&ndash;');

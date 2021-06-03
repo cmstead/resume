@@ -30,6 +30,19 @@
   },
   "work": [
     {
+      "company": "UCSD",
+      "position": "Software Development Instructor",
+      "startDate": "2017-12-01",
+      "endDate": "2020-12-15",
+      "summary": "Taught students technical and practical aspects of software development",
+      "highlights": [
+        "Fully integrated XP practices into curriculum",
+        "Provided insights into ways of succeeding in an agile development environment",
+        "Maintained connections with students for ad hoc mentorship sessions as necessary",
+        "Offered resources for further development in technical and practical development skills"
+      ]
+    },
+    {
       "company": "Hunter Industries, Inc.",
       "position": "Principal Software Developer",
       "website": "http://www.hunterindustries.com",

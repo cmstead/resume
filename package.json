@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "My resume",
   "scripts": {
-    "build": "resume export cstead-resume.html --theme flat"
+    "export": "resume export cstead-resume.html --theme flat",
+    "build": "node ./build.js"
   },
   "repository": {
     "type": "git",
