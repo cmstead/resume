@@ -112,18 +112,10 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "GVA",
-      "position": "Board Member",
-      "startDate": "2011-01-01",
-      "endDate": "2014-01-01"
-    }
-  ],
   "education": [
     {
       "institution": "Independent Study",
-      "area": "Applications of socio and grapholinguistics on production source code and associated human systems",
+      "area": "Applications of cognitive science, and socio- and grapholinguistics on production source code and associated human systems",
       "studyType": "Independent"
     },
     {
@@ -132,12 +124,6 @@
       "studyType": "Bachelor",
       "startDate": "2003-06-01",
       "endDate": "2005-03-01"
-    },
-    {
-      "institution": "Coursera/Polytechnique Fédérale de Lausanne",
-      "area": "Computer Science, Functional Programming, Scala",
-      "startDate": "2016-02-01",
-      "endDate": "2016-03-15"
     },
     {
       "institution": "Coursera/Stanford",
