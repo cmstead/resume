@@ -30,6 +30,19 @@
   },
   "work": [
     {
+      "company": "EDF Renewables",
+      "position": "Software Engineer 4",
+      "website": "https://www.edf-re.com/",
+      "startDate": "2020-08-15",
+      "summary": "Team lead and technical coach",
+      "highlights": [
+        "Provided guidance as teams integrated mob/ensemble programming sessions",
+        "Offered insights into effective testing and fast feedback cycles",
+        "Acted as a liaison for the team during particularly difficult conversations",
+        "Introduced alternate approaches to agile practices to resolve team challenges"
+      ]
+    },
+    {
       "company": "UCSD",
       "position": "Software Development Instructor",
       "startDate": "2017-12-01",
