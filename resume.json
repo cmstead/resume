@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Chris Stead",
-    "label": "Professional Software Developer",
+    "label": "Agile Software Development Professional",
     "email": "cmstead@gmail.com",
     "website": "http://www.chrisstead.com",
-    "summary": "Seasoned agile development professional, mentor, and coach",
+    "summary": "Seasoned agile development professional, leader, and mentor",
     "location": {
       "city": "San Diego",
       "region": "California",
@@ -12,14 +12,14 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "cm_stead",
-        "url": "http://twitter.com/cm_stead"
-      },
-      {
         "network": "Github",
         "username": "cmstead",
         "url": "http://github.com/cmstead"
+      },
+      {
+        "network": "Twitter",
+        "username": "cm_stead",
+        "url": "http://twitter.com/cm_stead"
       },
       {
         "network": "LinkedIn",
@@ -36,6 +36,7 @@
       "startDate": "2020-08-15",
       "summary": "Team lead and technical coach",
       "highlights": [
+        "Introduced technical and practical tools for more effectively delivering software",
         "Provided guidance as teams integrated mob/ensemble programming sessions",
         "Offered insights into effective testing and fast feedback cycles",
         "Acted as a liaison for the team during particularly difficult conversations",
